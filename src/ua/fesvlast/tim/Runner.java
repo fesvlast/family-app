@@ -13,6 +13,7 @@ public class Runner {
 			public void run() {
 				new MainFrame();	
 			}
+			/* Comment*/
 		});
 
 	}
